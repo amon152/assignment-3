@@ -1,0 +1,36 @@
+
+.five{
+    align-items: center;
+    text-align: center;
+    left: 50%;
+}
+h1{
+    text-align: center;
+}
+h3{
+    color: rgb(90, 132, 168);
+}
+tr{
+    color: #391185;
+    align-items: center;
+    border: 2px solid black;
+}
+td{
+    color: rgb(2, 53, 53);
+    border: 2px solid black;
+    align-items: center;
+
+}
+th{
+    width: 100px;
+
+}
+.mountain{
+    width: 500px;
+    border: 2px solid black;
+    align-items: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
