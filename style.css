@@ -1,4 +1,13 @@
-
+header{
+    height: 50px;
+    background-color: aqua;
+    display: flex;
+    justify-content: flex-end;
+   
+}
+h4{
+    margin-left: 20px;
+}
 .five{
     align-items: center;
     text-align: center;
